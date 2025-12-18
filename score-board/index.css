@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #19244D;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.team {
+    color: whitesmoke;
+    font-weight: 900;
+    font-size: x-large;
+    margin: 15px;
+}
+
+.score-num {
+    display: flex;
+    height: 120px;
+    width: 120px;
+    margin: 10px auto;
+    align-items: center;
+    justify-content: center;
+    color: #F94F6D;
+    background-color: #111111;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+.btn {
+    padding: 4px 8px;
+    color: #A8BBD6;
+    background-color: #19244d;
+    border: 1px solid #a8bbd6;
+    border-radius: 5px;
+}
+
+#new-game {
+    margin: 30px;
+    font-size: x-large;
+}

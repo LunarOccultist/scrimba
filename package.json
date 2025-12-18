@@ -1,0 +1,10 @@
+{
+  "name": "scrimba-projects",
+  "version": "1.0.0",
+  "description": "Just a collection of the projects from the scrimba course.",
+  "main": "score-board/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
