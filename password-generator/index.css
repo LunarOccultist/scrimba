@@ -1,0 +1,36 @@
+/* BG     -- #1F2937  */
+/* BG-M   -- #273549  */
+/* Text   -- #FFF     */
+/* Text-M -- #D5D4D8  */
+/* Green  -- #10B981  */
+/* Green2 -- #4ADF86  */
+
+body {
+    margin: 0px 0px;
+    background-color: #1F2937;
+    color: #FFF;
+}
+
+.btn {
+    color: #FFF;
+    background-color: #10B981;
+    padding: 10px 15px;
+}
+
+.container {
+    margin: auto auto;
+    height: 90%;
+    width: 90%;
+}
+
+.line-break {
+    background-color: #273549;
+    height: 2px;
+    width: 100%;
+    margin: 10px auto;
+    border-radius: 5%;
+}
+
+.green-accent {
+    color: #4ADF86;
+}
